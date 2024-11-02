@@ -55,6 +55,8 @@
    * Out put should be
    * **[main 94056bf] testing another push from pc**
    * **1 file changed, 2 insertions(+)**
+  
+ * Finnaly Type **git push** to add changes to the main branch
 
 
  
