@@ -28,21 +28,22 @@ CONFIG - WINDOWS 11.
     -Key: Paste the copied SSH key into the “Key” field.
     -Click on the Add SSH key button.
 19. (I had to unset old github account. ignore this please)
-20. Type - git config --global user.name "Your New Name"
-21.      - git config --global user.name "***"
+20. Setup New Config
+21. Type - git config --global user.name "Your New Name" 
+22.      - git config --global user.name "***"
    
-22. Type - git config --global user.email "your_new_email@example.com"
+23. Type - git config --global user.email "your_new_email@example.com"
          - git config --global user.email "***"
    
-23. Test the connection to GitHub
-24.   -Type - ssh -T git@github.com
-25. If you see response (Hi YOURNAME! You've successfully authenticated, but GitHub does not provide shell access.)
-26.   -Then setup is complete
-27.   -(git config --list) to check config infos
-28. DONE
-29. 
+24. Test the connection to GitHub
+25.   -Type - ssh -T git@github.com
+26. If you see response (Hi YOURNAME! You've successfully authenticated, but GitHub does not provide shell access.)
+27.   -Then setup is complete
+28.   -(git config --list) to check config infos
+29. DONE
 30. 
-31. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+31. 
+32. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
 
