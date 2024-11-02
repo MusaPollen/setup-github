@@ -38,7 +38,7 @@
   * Paste the copied SSH key into the “Key” field.
   * Click on the Add SSH key button.
 
-(I had to unset old github account)
+_(I had to unset old github account)_
 
 * Setup New Config
   * Type - **git config --global user.name "Your New Name"**
@@ -53,6 +53,6 @@
   * Then setup is complete
   * (git config --list) to check config infos
 
-##DONE
+## DONE
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
