@@ -49,7 +49,7 @@ _(I had to unset old github account)_
   * Then setup is complete
   * (**git config --list**) to check config infos
  
-**test text**************
+
 
 ## DONE
 
