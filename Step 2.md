@@ -36,5 +36,25 @@
      * If okay then you can start working
     
  * Now start working on files. I will make a simple text file change and update to cloud.
- * 
+   * **code .** // this will start vscode. or you can directly edit files using your preferred ide
+   * Select your file
+   * Edit file. // added a line **hhello test update from pc**
+   * save. //ctrl s
+  
+ * Now Type in gitbash **git status** to check if file changed.
+   * sample out put should be
+   * **On branch main**
+   * **Your branch is up to date with 'origin/main'.**
+   * **Changes not staged for commit:**
+   * **(use "git add <file>..." to update what will be committed)**
+   * **(use "git restore <file>..." to discard changes in working directory)**
+   * **modified:   README.md**
+  
+ * When you're ready to save your changes type **git add .** //stage all changes at once
+ * Now Commit - **git commit -m "Your commit message here"**
+   * Out put should be
+   * **[main 94056bf] testing another push from pc**
+   * **1 file changed, 2 insertions(+)**
+
+
  
