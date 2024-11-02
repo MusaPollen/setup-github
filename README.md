@@ -18,9 +18,9 @@ CONFIG - WINDOWS 11.
   * Enter file in which to save the key (/c/Users/****/.ssh/id_rsa):
   * press enter and accept as it is. I did not user passphrase
 
-#Start the SSH agent
-    --eval "$(ssh-agent -s)"
-    --It should start and output should be like - Agent pid **** // indicating process id number
+* Start the SSH agent
+  * eval "$(ssh-agent -s)"
+  * It should start and output should be like - Agent pid **** // indicating process id number
 
 #Add the new SSH key to the SSH agent
     -ssh-add ~/.ssh/id_rsa
