@@ -19,12 +19,12 @@ CONFIG - WINDOWS 11.
   * press enter and accept as it is. I did not user passphrase
 
 * Start the SSH agent
-  * eval "$(ssh-agent -s)"
-  * It should start and output should be like - Agent pid **** // indicating process id number
+  * **eval "$(ssh-agent -s)"**
+  * It should start and output should be like - **Agent pid ****** // indicating process id number
 
-#Add the new SSH key to the SSH agent
-    -ssh-add ~/.ssh/id_rsa
-    -should see a output -Identity added: /c/Users//.ssh/id_rsa (@gmail.com)
+* Add the new SSH key to the SSH agent
+  * ssh-add ~/.ssh/id_rsa
+  * should see a output -Identity added: /c/Users//.ssh/id_rsa (@gmail.com)
 
 #Copy the new SSH key to your clipboard
 
