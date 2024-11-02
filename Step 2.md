@@ -27,10 +27,10 @@
       * **remote: Total 122 (delta 36), reused 3 (delta 1), pack-reused 0 (from 0)**
       * **Receiving objects: 100% (122/122), 38.76 KiB | 167.00 KiB/s, done.**
       * **Resolving deltas: 100% (36/36), done.**
-  * Go to newly created folder **cd TAB**
-  * Type - **git status**
-    * sample response should be like
-      * **On branch main**
-      * **Your branch is up to date with 'origin/main'.**
-      * **nothing to commit, working tree clean**
+ * Go to newly created folder **cd TAB**
+ * Type - **git status**
+   * sample response should be like
+     * **On branch main**
+     * **Your branch is up to date with 'origin/main'.**
+     * **nothing to commit, working tree clean**
  
