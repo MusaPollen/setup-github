@@ -47,7 +47,9 @@ _(I had to unset old github account)_
 
 * If you see response (Hi YOURNAME! You've successfully authenticated, but GitHub does not provide shell access.)
   * Then setup is complete
-  * (git config --list) to check config infos
+  * (**git config --list**) to check config infos
+ 
+**test text**************
 
 ## DONE
 
