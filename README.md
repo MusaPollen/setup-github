@@ -1,4 +1,4 @@
-Initial setup of github in workstation with ssh
+### Initial setup of github in workstation with ssh
 
 CONFIG - WINDOWS 11.
 
@@ -30,28 +30,28 @@ CONFIG - WINDOWS 11.
   * cat ~/.ssh/id_rsa.pub
   * Copy Whole thing - ssh-rs**************************************.com
 
-#Add your SSH key
-    --Click on your profile picture in the upper right corner, then select Settings. 
-    --In the left sidebar, click on SSH and GPG keys. 
-    --Click the New SSH key button. 
-    --Title: Give your key a descriptive title (e.g., “New Laptop SSH Key”). 
-    --Key Paste the copied SSH key into the “Key” field. -Click on the Add SSH key button.
+* Add your SSH key
+  * Click on your profile picture in the upper right corner, then select Settings.
+  * In the left sidebar, click on SSH and GPG keys.
+  * Click the New SSH key button.
+  * Title: Give your key a descriptive title (e.g., “New Laptop SSH Key”).
+  * Paste the copied SSH key into the “Key” field.
+  * Click on the Add SSH key button.
 
-(I had to unset old github account. ignore this please)
+(I had to unset old github account)
 
-#Setup New Config
-    -- Type - git config --global user.name "Your New Name"
-    -- git config --global user.name "***"
+* Setup New Config
+  * Type - **git config --global user.name "Your New Name"**
+  * Type - **git config --global user.email "your_new_email@example.com"**
+ 
 
-    -- Type - git config --global user.email "your_new_email@example.com" 
-    -- git config --global user.email "***"
 
-#Test the connection to GitHub
-    -Type - ssh -T git@github.com
+* Test the connection to GitHub
+  * Type - **ssh -T git@github.com**
 
-#If you see response (Hi YOURNAME! You've successfully authenticated, but GitHub does not provide shell access.)
-    --Then setup is complete
-    --(git config --list) to check config infos
+* If you see response (Hi YOURNAME! You've successfully authenticated, but GitHub does not provide shell access.)
+  * Then setup is complete
+  * (git config --list) to check config infos
 
 ##DONE
 
