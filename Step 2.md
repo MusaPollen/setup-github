@@ -1,5 +1,7 @@
 ## Follow these to start working with projects
 
+<sub> follow this after you have implemented first read me</sub>
+
 * Open gitbash
 * Go to working directory
   * cd ..
@@ -15,10 +17,10 @@
     * find CODE button
     * from the dropdown list choose ssh tab
     * copy link
-    * like this **git@github.com:M##########*n/se############ub.git**
+    * like this **git@github.com:M##########n/se############ub.git**
    
   * In git bash type
-    * git clone **git@github.com:M##########*n/se############ub.git**
+    * git clone **git@github.com:M###########n/se############ub.git**
     * sample response should look like
       * **Cloning into 'setup-github'...**
       * **remote: Enumerating objects: 122, done.**
@@ -38,7 +40,7 @@
  * Now start working on files. I will make a simple text file change and update to cloud.
    * **code .** // this will start vscode. or you can directly edit files using your preferred ide
    * Select your file
-   * Edit file. // added a line **hhello test update from pc**
+   * Edit file. // added a line **hello test update from pc**
    * save. //ctrl s
   
  * Now Type in gitbash **git status** to check if file changed.
@@ -52,14 +54,12 @@
   
  * When you're ready to save your changes type **git add .** //stage all changes at once
  * Now Commit - **git commit -m "Your commit message here"**
-   * Out put should be ..carefull..made an error. I push from two place. from desktop i edited readmemd and from 
-     web i edited the step2md file
-   * **[main 94056bf] testing another push from pc**
-   * **1 file changed, 2 insertions(+)**
+   * Out put should be like below
+   * **[main 5a783f1] final testing and checking if push works from pc**
+   * **1 file changed, 7 insertions(+), 1 deletion(-)**
+
   
  * Finnaly Type **git push** to add changes to the main branch
- * //editing once more from pc
- //editing once more from pc
-//editing once more from pc
+ ### Note -  will have to update this guide with making branch and pushing to branch. Main branch adding is note recommended. Need to talk with Doha about checkout command and etc.
 
  
