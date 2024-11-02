@@ -12,7 +12,7 @@ CONFIG - WINDOWS 11.
 * Open gitbash.
 
 * Generate a new SSH key
- *Type as below
+ * Type as below
  * ssh-keygen -t rsa -b 4096 -C "your_new_email@example.com" //(email associated with your new GitHub)
  * It should show - Generating public/private rsa key pair.
  * Enter file in which to save the key (/c/Users/****/.ssh/id_rsa):
