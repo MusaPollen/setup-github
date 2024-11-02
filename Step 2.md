@@ -58,6 +58,7 @@
    * **1 file changed, 2 insertions(+)**
   
  * Finnaly Type **git push** to add changes to the main branch
+ * //editing once more from pc
 
 
  
