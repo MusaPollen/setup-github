@@ -13,10 +13,10 @@ CONFIG - WINDOWS 11.
 
 * Generate a new SSH key
   * Type as below
- * ssh-keygen -t rsa -b 4096 -C "your_new_email@example.com" //(email associated with your new GitHub)
- * It should show - Generating public/private rsa key pair.
- * Enter file in which to save the key (/c/Users/****/.ssh/id_rsa):
- * press enter and accept as it is. I did not user passphrase
+  * ssh-keygen -t rsa -b 4096 -C "your_new_email@example.com" //(email associated with your new GitHub)
+  * It should show - Generating public/private rsa key pair.
+  * Enter file in which to save the key (/c/Users/****/.ssh/id_rsa):
+  * press enter and accept as it is. I did not user passphrase
 
 #Start the SSH agent
     --eval "$(ssh-agent -s)"
