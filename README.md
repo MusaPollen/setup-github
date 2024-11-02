@@ -2,10 +2,10 @@ Initial setup of github in workstation with ssh
 
 CONFIG - WINDOWS 11.
 
-# Download Git for Windows. https://git-scm.com/downloads/win
+* Download Git for Windows. https://git-scm.com/downloads/win
 
-# Install. 
-## Choose default values since so many options available.
+* Install.
+*     *Choose default values since so many options available.
 
 # Open gitbash.
 
