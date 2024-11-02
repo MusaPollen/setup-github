@@ -50,7 +50,7 @@ _(I had to unset old github account)_
   * (**git config --list**) to check config infos
  
 
-
+<!-- This content will not appear in the rendered Markdown. :+1: used for imoji -->
 ## DONE :+1:
 
 
