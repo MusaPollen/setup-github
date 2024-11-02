@@ -52,7 +52,8 @@
   
  * When you're ready to save your changes type **git add .** //stage all changes at once
  * Now Commit - **git commit -m "Your commit message here"**
-   * Out put should be ..carefull..made an error
+   * Out put should be ..carefull..made an error. I push from two place. from desktop i edited readmemd and from 
+     web i edited the step2md file
    * **[main 94056bf] testing another push from pc**
    * **1 file changed, 2 insertions(+)**
   
