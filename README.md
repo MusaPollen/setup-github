@@ -1,11 +1,10 @@
-### Initial setup of github in workstation with ssh <sub>CONFIG - WINDOWS 11</sub>
+### Initial setup of github in workstation with ssh 
+<sub>CONFIG - WINDOWS 11</sub>
 
 * Download Git for Windows. https://git-scm.com/downloads/win
 
-
 * Install.
   * Choose default values since so many options available.
- 
 
 * Open gitbash.
 
@@ -42,7 +41,6 @@ _(I had to unset old github account)_
   * Type - **git config --global user.name "Your New Name"**
   * Type - **git config --global user.email "your_new_email@example.com"**
  
-
 
 * Test the connection to GitHub
   * Type - **ssh -T git@github.com**
