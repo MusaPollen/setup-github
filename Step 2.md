@@ -52,7 +52,7 @@
   
  * When you're ready to save your changes type **git add .** //stage all changes at once
  * Now Commit - **git commit -m "Your commit message here"**
-   * Out put should be
+   * Out put should be ..carefull..made an error
    * **[main 94056bf] testing another push from pc**
    * **1 file changed, 2 insertions(+)**
   
