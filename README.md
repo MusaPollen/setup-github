@@ -27,14 +27,14 @@
   * should see a output -**Identity added: /c/Users//.ssh/id_rsa (***@gmail.com)**
 
 * Copy the new SSH key to your clipboard
-  * cat ~/.ssh/id_rsa.pub
-  * Copy Whole thing - ssh-rs**************************************.com
+  * **cat ~/.ssh/id_rsa.pub**
+  * Copy Whole thing - **ssh-rs**************************************.com**
 
 * Add your SSH key
   * Click on your profile picture in the upper right corner, then select Settings.
   * In the left sidebar, click on SSH and GPG keys.
   * Click the New SSH key button.
-  * Title: Give your key a descriptive title (e.g., “New Laptop SSH Key”).
+  * Title-Give your key a descriptive title (e.g., “New Laptop SSH Key”).
   * Paste the copied SSH key into the “Key” field.
   * Click on the Add SSH key button.
 
