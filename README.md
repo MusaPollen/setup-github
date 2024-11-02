@@ -29,8 +29,8 @@ CONFIG - WINDOWS 11.
     -Click on the Add SSH key button.
 19. (I had to unset old github account. ignore this please)
 20. Setup New Config
-21.  
-22.      - git config --global user.name "***"
+21.     - Type - git config --global user.name "Your New Name"
+22.     - git config --global user.name "***"
    
 23. Type - git config --global user.email "your_new_email@example.com"
          - git config --global user.email "***"
